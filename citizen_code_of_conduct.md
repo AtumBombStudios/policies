@@ -2,11 +2,11 @@
 
 ## 1. Purpose
 
-A primary goal of AtumBomb Studios is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of Atum Bomb Studios is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-We invite all those who participate in AtumBomb Studios to help us create safe and positive experiences for everyone.
+We invite all those who participate in Atum Bomb Studios to help us create safe and positive experiences for everyone.
 
 ## 2. Open Tech Citizenship
 
@@ -45,7 +45,7 @@ The following behaviors are considered harassment and are unacceptable within ou
 
 ## 5. Weapons Policy
 
-No weapons will be allowed at AtumBomb Studios events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all state and local laws on this matter.
+No weapons will be allowed at Atum Bomb Studios events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all state and local laws on this matter.
 
 ## 6. Consequences of Unacceptable Behavior
 
@@ -83,7 +83,7 @@ The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stump
 
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
-_Revision 2.3.1 Posted 12 July 2018 (revised and adopted by AtumBomb Studios)._
+_Revision 2.3.1 Posted 12 July 2018 (revised and adopted by Atum Bomb Studios)._
 
 _Revision 2.3. Posted 6 March 2017._
 
